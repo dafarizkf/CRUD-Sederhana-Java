@@ -1,5 +1,5 @@
 # CRUD-Sederhana-Java
-1. Buka Terlebih Dahulu XAMPP start Appache dan mysql 
+1.Buka Terlebih Dahulu XAMPP start Appache dan mysql 
 
 2.Buka browser dan ketik localhost/phpmyadmin
 
