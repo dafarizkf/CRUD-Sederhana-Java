@@ -1,0 +1,33 @@
+Cara Clone 
+1. Buat file untuk hasil clone terlebih dahulu lalu click kanan click "git bash here"
+
+2. buka github.com lalu cari/ pilih file yang ingin anda clone lalu copy HHTP/SSH
+
+3. Buka kembali git bash lalu Ketik "git clone" dan paste HTTP/Hsslalu enter
+
+contoh : "$ git clone https://github.com/dafarizkf/CRUD-Sederhana-Java.git"
+
+4. Setelah itu tunggu lah sampai proses download selesai jika sudah selesai folder akan tersedia di folder hasil clone.
+
+
+Cara Push :
+1.Buat repository baru dengan nama sesuai dengan nama projek yang akan di upload
+
+2.Isi Repository Name, Description, Pilih Public agar projek yang sudah kita upload bisa di akses oleh semua orang
+
+3.klik kanan projek yang ingin anda push dan click kanan lalu pilih "git bash here"
+
+4.lalu ketikan "git init" pastikan anda tersambung dengan internet
+
+5.Setetlah itu ketikan "git add *" maka akan muncul semua file yang akan kita upload ke repository
+
+6. Lalu ketikan "git commit -m" "coment" untuk coment adalah keterangan ketika file sudah di upload
+ contoh: git commit -m “upload pertama”
+
+7.Jika sudah ketikan "git remote add origin" dan paste HTTP/SSH
+
+	contoh :  git remote add originCRUD-Sederhana-Java.git"
+
+8.jika sudah ketikan "git push origin master"
+
+
